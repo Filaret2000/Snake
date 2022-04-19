@@ -8,19 +8,13 @@ namespace Snake
 {
     class Tabla
     {
-        int Inaltime, Latime;//inaltimea si latimea portiunii tablei de joc
+        //inaltimea si latimea portiunii tablei de joc
+        public int Inaltime { get; set; }
+        public int Latime { get; set; }
         public Tabla()//constructor implicit
         {
             Inaltime = 20;
             Latime = 40;
-        }
-        public int GetInaltime()
-        {
-            return Inaltime;
-        }
-        public int GetLatime()
-        {
-            return Latime;
         }
         public void AfisareTabla()
         {
