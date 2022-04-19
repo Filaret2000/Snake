@@ -1,0 +1,46 @@
+D:\Faculta\VS ~ PIU\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\Faculta\VS ~ PIU\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Faculta\VS ~ PIU\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Faculta\VS ~ PIU\Snake\Snake\bin\Debug\Snake.exe
+D:\Faculta\VS ~ PIU\Snake\Snake\bin\Debug\Snake.pdb
+D:\Faculta\VS ~ PIU\Snake\Snake\obj\Debug\Snake.exe
+D:\Faculta\VS ~ PIU\Snake\Snake\obj\Debug\Snake.pdb
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\bin\Debug\Snake.exe.config
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\bin\Debug\Snake.exe
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\bin\Debug\Snake.pdb
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\obj\Debug\Snake.exe
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\obj\Debug\Snake.pdb
+D:\3121A\Crainiciuc Filaret\Proiect Snake\Snake\bin\Debug\Snake.exe.config
+D:\3121A\Crainiciuc Filaret\Proiect Snake\Snake\bin\Debug\Snake.exe
+D:\3121A\Crainiciuc Filaret\Proiect Snake\Snake\bin\Debug\Snake.pdb
+D:\3121A\Crainiciuc Filaret\Proiect Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\3121A\Crainiciuc Filaret\Proiect Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\3121A\Crainiciuc Filaret\Proiect Snake\Snake\obj\Debug\Snake.exe
+D:\3121A\Crainiciuc Filaret\Proiect Snake\Snake\obj\Debug\Snake.pdb
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\bin\Debug\System.Security.AccessControl.dll
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\bin\Debug\System.Security.Permissions.dll
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\bin\Debug\System.Security.Principal.Windows.dll
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\bin\Debug\System.Security.AccessControl.xml
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\bin\Debug\System.Security.Permissions.xml
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\bin\Debug\System.Security.Principal.Windows.xml
+D:\Faculta\VS ~ PIU\Proiect Snake\Snake\obj\Debug\Snake.csproj.CopyComplete
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\bin\Debug\Snake.exe
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\bin\Debug\Snake.pdb
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\bin\Debug\System.Security.AccessControl.dll
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\bin\Debug\System.Security.Permissions.dll
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\bin\Debug\System.Security.Principal.Windows.dll
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\bin\Debug\System.Security.AccessControl.xml
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\bin\Debug\System.Security.Permissions.xml
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\bin\Debug\System.Security.Principal.Windows.xml
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\obj\Debug\Snake.csproj.CopyComplete
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\obj\Debug\Snake.exe
+D:\Faculta\VS ~ PIU\Proiect\Snake\Snake\obj\Debug\Snake.pdb
