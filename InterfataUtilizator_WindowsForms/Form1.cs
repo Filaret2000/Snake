@@ -59,7 +59,7 @@ namespace InterfataUtilizator_WindowsForms
             //Declarari si initializari
             //initializare forma
             this.Size = new Size(520,450); 
-            this.Text = "Snake";
+            //this.Text = "Snake";
             this.ForeColor = Color.Blue;
             this.Font = new Font("Times New Roman", 12, FontStyle.Bold);
             this.StartPosition = FormStartPosition.CenterScreen;
