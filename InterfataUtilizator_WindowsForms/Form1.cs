@@ -433,7 +433,7 @@ namespace InterfataUtilizator_WindowsForms
         }
         private void GotFocusNick(Object sender, EventArgs e)
         {
-            textBoxNick.BackColor = Color.BlueViolet;
+            textBoxNick.BackColor = Color.PowderBlue;
         }
         private void LostFocusNick(Object sender, EventArgs e)
         {
@@ -441,7 +441,7 @@ namespace InterfataUtilizator_WindowsForms
         }
         private void GotFocusPct(Object sender, EventArgs e)
         {
-            textBoxPct.BackColor = Color.BlueViolet;
+            textBoxPct.BackColor = Color.PowderBlue;
         }
         private void LostFocusPct(Object sender, EventArgs e)
         {
@@ -449,7 +449,7 @@ namespace InterfataUtilizator_WindowsForms
         }
         private void GotFocusDate(Object sender, EventArgs e)
         {
-            textBoxData.BackColor = Color.BlueViolet;
+            textBoxData.BackColor = Color.PowderBlue;
         }
         private void LostFocusDate(Object sender, EventArgs e)
         {
