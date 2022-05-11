@@ -197,6 +197,7 @@ namespace InterfataUtilizator_WindowsForms
                     PctError.Text = String.Empty;
                     DateError.Text = String.Empty;
                     textBoxNick.Text = String.Empty;
+                    textBoxNick.Focus();
                 }
                 if (errorMessage == "13" || errorMessage == "23")
                 {
@@ -217,6 +218,7 @@ namespace InterfataUtilizator_WindowsForms
                     NickError.Text = String.Empty;
                     DateError.Text = String.Empty;
                     textBoxPct.Text = String.Empty;
+                    textBoxPct.Focus();
                 }
                 if (errorMessage == "12" || errorMessage == "22")
                 {
@@ -237,6 +239,7 @@ namespace InterfataUtilizator_WindowsForms
                     NickError.Text = String.Empty;
                     PctError.Text = String.Empty;
                     textBoxData.Text = String.Empty;
+                    textBoxData.Focus();
                 }
             }
         }
@@ -299,7 +302,7 @@ namespace InterfataUtilizator_WindowsForms
                 lblTablou[0, i].Text = Player[i].Nickname;
                 lblTablou[0, i].Font = new Font("Arial", 9, FontStyle.Bold);
                 lblTablou[0, i].Width = LATIME_CONTROL;
-                lblTablou[0, i].Top = (i - afisStop ) * DIMENSIUNE_PAS_Y + ALINIERE_Y;
+                lblTablou[0, i].Top = (i - afisStop) * DIMENSIUNE_PAS_Y + ALINIERE_Y;
                 lblTablou[0, i].Left = 4 * DIMENSIUNE_PAS_X + ALINIERE_X;
                 lblTablou[0, i].BackColor = Color.LightGreen;
                 lblTablou[0, i].TextAlign = ContentAlignment.MiddleCenter;
@@ -309,7 +312,7 @@ namespace InterfataUtilizator_WindowsForms
                 lblTablou[1, i].Text = Player[i].Punctaj.ToString();
                 lblTablou[1, i].Font = new Font("Cambria", 9, FontStyle.Bold);
                 lblTablou[1, i].Width = LATIME_CONTROL;
-                lblTablou[1, i].Top = (i - afisStop ) * DIMENSIUNE_PAS_Y + ALINIERE_Y;
+                lblTablou[1, i].Top = (i - afisStop) * DIMENSIUNE_PAS_Y + ALINIERE_Y;
                 lblTablou[1, i].Left = 5 * DIMENSIUNE_PAS_X + ALINIERE_X;
                 lblTablou[1, i].BackColor = Color.LightGreen;
                 lblTablou[1, i].TextAlign = ContentAlignment.MiddleCenter;
@@ -319,7 +322,7 @@ namespace InterfataUtilizator_WindowsForms
                 lblTablou[2, i].Text = Player[i].Data;
                 lblTablou[2, i].Font = new Font("Cambria", 9, FontStyle.Bold);
                 lblTablou[2, i].Width = LATIME_CONTROL;
-                lblTablou[2, i].Top = (i - afisStop ) * DIMENSIUNE_PAS_Y + ALINIERE_Y;
+                lblTablou[2, i].Top = (i - afisStop) * DIMENSIUNE_PAS_Y + ALINIERE_Y;
                 lblTablou[2, i].Left = 6 * DIMENSIUNE_PAS_X + ALINIERE_X;
                 lblTablou[2, i].BackColor = Color.LightGreen;
                 lblTablou[2, i].TextAlign = ContentAlignment.MiddleCenter;

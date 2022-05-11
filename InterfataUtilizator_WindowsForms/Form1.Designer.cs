@@ -43,8 +43,8 @@ namespace InterfataUtilizator_WindowsForms
             this.textBoxNick.Size = new System.Drawing.Size(132, 22);
             this.textBoxNick.TabIndex = 0;
             this.textBoxNick.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.textBoxNick.Click += new System.EventHandler(this.GotFocusNick);
             this.textBoxNick.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.textBoxNick.Enter += new System.EventHandler(this.GotFocusNick);
             this.textBoxNick.Leave += new System.EventHandler(this.LostFocusNick);
             // 
             // textBoxPct
@@ -54,8 +54,8 @@ namespace InterfataUtilizator_WindowsForms
             this.textBoxPct.Size = new System.Drawing.Size(133, 22);
             this.textBoxPct.TabIndex = 1;
             this.textBoxPct.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.textBoxPct.Click += new System.EventHandler(this.GotFocusPct);
             this.textBoxPct.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            this.textBoxPct.Enter += new System.EventHandler(this.GotFocusPct);
             this.textBoxPct.Leave += new System.EventHandler(this.LostFocusPct);
             // 
             // textBoxData
@@ -66,8 +66,8 @@ namespace InterfataUtilizator_WindowsForms
             this.textBoxData.Size = new System.Drawing.Size(133, 22);
             this.textBoxData.TabIndex = 2;
             this.textBoxData.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.textBoxData.Click += new System.EventHandler(this.GotFocusDate);
             this.textBoxData.TextChanged += new System.EventHandler(this.textBox3_TextChanged);
+            this.textBoxData.Enter += new System.EventHandler(this.GotFocusDate);
             this.textBoxData.Leave += new System.EventHandler(this.LostFocusDate);
             // 
             // button1
